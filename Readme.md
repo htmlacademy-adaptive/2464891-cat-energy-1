@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
-* Студент: [Aleksander Panyushkin](https://up.htmlacademy.ru/adaptive-individual/1/user/2464891).
-* Наставник: [Виктория Никитина](https://htmlacademy.ru/profile/id1217273).
+* Студент: [Aleksander Panyushkin](https://up.htmlacademy.ru/adaptive-individual/1/user/2464891)
+* Наставник: [Виктория Никитина](https://htmlacademy.ru/profile/id1217273)
 
 ---
 
